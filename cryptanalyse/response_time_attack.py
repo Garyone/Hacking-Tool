@@ -3,7 +3,7 @@
 
 import socket
 import time
-import re
+
 
 ip = 'your_serv' #param connexion
 port = your_port
